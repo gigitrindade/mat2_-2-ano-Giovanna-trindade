@@ -4,3 +4,7 @@ color: white;
 display: flex;
 justify-content: space-around;
 }
+
+.cabçalho-lista-item {
+    display: inline-block;
+}
