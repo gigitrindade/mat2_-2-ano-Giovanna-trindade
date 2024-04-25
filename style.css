@@ -1,4 +1,5 @@
-header {
+.cabeçalho {
 background-color: #3E745D;
 color: white;
+display: flex;
 }
