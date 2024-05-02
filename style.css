@@ -26,3 +26,7 @@ padding: 20px 0;
     color:white;
     display: flex;
 }
+
+.biblioteca-div-conteudo{
+    width: 35%;
+}
