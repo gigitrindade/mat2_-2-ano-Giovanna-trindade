@@ -25,6 +25,7 @@ padding: 20px 0;
     background-image: linear-gradient(#3E745D,#6DC8A2);
     color: white;
     display: flex;
+    justify-content: center;
 }
 
 .biblioteca-div-conteudo{
